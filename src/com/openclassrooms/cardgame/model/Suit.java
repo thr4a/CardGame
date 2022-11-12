@@ -9,7 +9,7 @@ public enum Suit {
         this.suit = value;
     }
 
-    public int getSuit() {
+    public int value() {
         return this.suit;
     }
 }
