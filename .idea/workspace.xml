@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3625af5-c704-4d16-a147-46577d8fae99" name="Changes" comment="implémentation de Rank">
-      <change afterPath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/model/Suit.java" afterDir="false" />
+    <list default="true" id="e3625af5-c704-4d16-a147-46577d8fae99" name="Changes" comment="ajout de la classe Suit">
+      <change afterPath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/model/PlayingCard.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +18,7 @@
       <list>
         <option value="package-info" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -53,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668276608865</updated>
-      <workItem from="1668276628028" duration="1887000" />
+      <workItem from="1668276628028" duration="2411000" />
     </task>
     <task id="LOCAL-00001" summary="implémentation de Rank">
       <created>1668278232164</created>
@@ -62,7 +63,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668278232164</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ajout de la classe Suit">
+      <created>1668278595146</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668278595146</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,6 +89,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="implémentation de Rank" />
-    <option name="LAST_COMMIT_MESSAGE" value="implémentation de Rank" />
+    <MESSAGE value="ajout de la classe Suit" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajout de la classe Suit" />
   </component>
 </project>
