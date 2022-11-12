@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3625af5-c704-4d16-a147-46577d8fae99" name="Changes" comment="ajout de la classe Deck&#10;renomages des methodes dans Rank et Suit">
-      <change afterPath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/model/Hand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e3625af5-c704-4d16-a147-46577d8fae99" name="Changes" comment="ajout de la classe Hand">
+      <change afterPath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/model/Player.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668276608865</updated>
-      <workItem from="1668276628028" duration="5343000" />
+      <workItem from="1668276628028" duration="5752000" />
     </task>
     <task id="LOCAL-00001" summary="implémentation de Rank">
       <created>1668278232164</created>
@@ -84,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668281573805</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ajout de la classe Hand">
+      <created>1668282211767</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1668282211767</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +112,7 @@
     <MESSAGE value="ajout de la classe Suit" />
     <MESSAGE value="ajout de la classe PlayingCard" />
     <MESSAGE value="ajout de la classe Deck&#10;renomages des methodes dans Rank et Suit" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajout de la classe Deck&#10;renomages des methodes dans Rank et Suit" />
+    <MESSAGE value="ajout de la classe Hand" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajout de la classe Hand" />
   </component>
 </project>
