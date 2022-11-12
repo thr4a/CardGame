@@ -14,7 +14,7 @@ public class Player {
         this.hand.addCard(pc);
     }
 
-    public PlayingCard getcard(int index) {
+    public PlayingCard getCard(int index) {
         return this.hand.getCard(index);
     }
 
